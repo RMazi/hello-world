@@ -1,2 +1,3 @@
 ﻿Get-PSDrive
 gps
+whoami
